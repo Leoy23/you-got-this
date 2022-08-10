@@ -216,17 +216,15 @@ function injectPoster() {
 }
 
 function deletePoster() {
-var id = event.target.parentNode.id
+  var id = event.target.parentNode.id
   for (var i = 0; i < savedPosters.length; i++) {
     if (savedPosters[i].id == id) {
       savedPosters.splice(i, 1)
-    }
+  }
 }
   injectPoster();
 
 }
-
-
 
 function getRandomIndex(array) {
   return Math.floor(Math.random() * array.length);
