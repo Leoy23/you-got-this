@@ -17,5 +17,5 @@ Project spec & rubric can be found [here](https://frontend.turing.io/projects/mo
 
 
 --------------
-![motivational posters](./assets/create-poster.png)
 ![motivational posters](./assets/you-got-this.png)
+![motivational posters](./assets/create-poster.png)
