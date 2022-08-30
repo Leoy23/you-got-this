@@ -1,4 +1,4 @@
-# Hang In There
+# You Got This!
 
 Life can be challenging at times and we all know how difficult it can be for many to gain the motivation you need to prevail. Created by Alex Osgood and Lee Young and using JavaScript for functionality, we created `You Got This!`, a randomized set of motivational posters that can put a smile on any human and inspire them to keep going!
 
